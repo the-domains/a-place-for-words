@@ -1,0 +1,28 @@
+name: A place for words
+favicon: null
+layout_spectrum: 0.8077110906597227
+typography_spectrum: 0.06025584484450519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.380052404711023
+  lightness: 0.3299651632551104
+  saturation: 0.2122239018790424
+  rhythmicContrast: 0.4036453743465245
+purpose: []
